@@ -8,7 +8,9 @@
 
 ## Sample Data
 
-chinookDB ：SampleData\Chinook.db
+data mook :
+
+sqlite versiion  ：SampleData\chinook.db ,可以直接使用。
 
 https://github.com/lerocha/chinook-database
 
